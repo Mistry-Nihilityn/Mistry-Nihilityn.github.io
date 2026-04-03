@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yihui Wang",
+    "email": "wangyihui@mail.hfut.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://mistry-nihilityn.github.io",
+    "summary": "Undergraduate student in Software Engineering at Hefei University of Technology. Research interests include time series analysis, large language models, computer vision and interpretability. Recipient of the National Scholarship with extensive experience in competitive programming and research projects.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Hefei",
+      "countryCode": "CN",
+      "region": "Anhui"
     },
     "profiles": [
       {
@@ -25,128 +25,133 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Mistry-Nihilityn",
+        "url": "https://github.com/Mistry-Nihilityn"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Hefei University of Technology",
+      "area": "Software Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2023-09",
+      "endDate": "Present",
+      "gpa": "3.87/4.3",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Research Tools",
+      "level": "Specialist",
+      "keywords": ["MATLAB", "PyTorch", "Git", "LaTeX"]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Specialist",
+      "keywords": ["C", "C++", "Java", "Python"]
+    },
+    {
+      "name": "Web Development",
+      "level": "Pupil",
+      "keywords": ["HTML", "CSS", "JavaScript", "TypeScript", "SQL", "React", "Vue"]
+    },
+    {
+      "name": "Software",
+      "level": "Specialist",
+      "keywords": ["Microsoft Office Suite", "Adobe Creative Suite"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Ppper-intermediate"
+    }
+  ],
   "interests": [],
   "references": [],
-  "publications": [
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": [],
+  "awards": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "title": "National Scholarship",
+      "date": "2023",
+      "awarder": "Ministry of Education of China",
+      "summary": "Highest honor for undergraduate students in China"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "title": "Bronze Medal, 50th ICPC Asia Regional Contest (Chengdu)",
+      "date": "2025",
+      "awarder": "International Collegiate Programming Contest",
+      "summary": "Team-based Prestigious competitive programming competition"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "title": "Bronze Medal, 11th CCPC Jinan Regional Contest",
+      "date": "2025",
+      "awarder": "China Collegiate Programming Contest",
+      "summary": "Team-based algorithmic programming competition"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "title": "Bronze Medal, 11th CCPC Zhengzhou Regional Contest",
+      "date": "2025",
+      "awarder": "China Collegiate Programming Contest",
+      "summary": "Team-based algorithmic programming competition"
+    },
+    {
+      "title": "Bronze Medal, CCSP 2025",
+      "date": "2025",
+      "awarder": "China Computer Federation",
+      "summary": "National College Student Computer Systems and Programming Competition"
+    },
+    {
+      "title": "First Prize, Anhui Province Robot Competition - Programming Track",
+      "date": "2024, 2025",
+      "awarder": "Anhui Province",
+      "summary": "Two consecutive years of first prize"
+    },
+    {
+      "title": "Gold Medal, Anhui Province College Student Innovation Competition",
+      "date": "2024",
+      "awarder": "Anhui Province",
+      "summary": "Project: 'HuanNa Technology: Leader in Intelligent Lithium Battery Disassembly and Green Direct Recycling Technology'"
     }
   ],
-  "presentations": [
+  "projects": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Multi-dimensional Time Series Feature Alignment and Temporal Prediction Method Optimization",
+      "startDate": "2023-09",
+      "endDate": "Present",
+      "description": "Science-Education Integration Project Extension, Hefei University of Technology",
+      "highlights": [
+        "Research on encoding methods and modeling based on multi-dimensional temporal features",
+        "Research on inference prediction optimization algorithms based on eliminating feature Hamming distance"
+      ]
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Power Battery Status Measurement System Based on Large Model Time Series Analysis in V2G Context",
+      "startDate": "2023-12",
+      "endDate": "Present",
+      "description": "Anhui Province Local Standard Plan Project",
+      "highlights": [
+        "Research on power battery health prediction algorithm based on charge-discharge cycle characteristics",
+        "Participated in the development of new energy vehicle power battery status measurement and management system"
+      ]
     }
   ],
-  "teaching": [
+  "software": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "RMS: Intelligent Vehicle Maintenance Management System V1.0",
+      "creators": "Yihui Wang, Yuhui Lin, Yiyi Wang, et al.",
+      "registrationNumber": "2025R11L2027128",
+      "date": "2025"
     }
   ]
 }
