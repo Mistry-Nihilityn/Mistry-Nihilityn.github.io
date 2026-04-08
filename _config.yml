@@ -26,12 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Yihui Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Student in Software Engineering | Researcher in Time Series Analysis & LLMs & CV"
+  bio              : "Also called Mistry-Nihilityn."
   location         : "Anhui, China"
   employer         : "Hefei University of Technology"
   uri              : # URL
   email            : "wangyihui@mail.hfut.edu.cn"
-  phone            : "" 
+  # phone            : "" 
 
   # Academic websites
   academia         : # URL
@@ -39,7 +39,7 @@ author:
   googlescholar    : #
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # "https://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0009-0008-6683-9235
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

@@ -9,8 +9,7 @@ redirect_from:
 
 ## 👋 About
 
-I am an undergraduate student in Software Engineering at [Hefei University of Technology](http://www.hfut.edu.cn) interested in **Interpretable Robust Learning**, **Computer Vision**, **Multimodal Learning**, and **Large Language Models**.  
-I also hold multiple ICPC/CCPC/CCSP medals, which sharpen my algorithmic implementation skills.
+I am an undergraduate student in Software Engineering at [Hefei University of Technology](http://www.hfut.edu.cn) interested in **Interpretable Robust Learning**, **Computer Vision**, **Multimodal Learning**, and **Large Language Models**.  I also hold multiple **ICPC/CCPC/CCSP** medals, which sharpen my algorithmic implementation skills.
 
 ## 📰 News
 
