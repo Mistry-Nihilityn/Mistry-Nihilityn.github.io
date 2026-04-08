@@ -49,7 +49,7 @@ I also hold multiple ICPC/CCPC/CCSP medals, which sharpen my algorithmic impleme
   - More projects (e.g., LLM‑based Language User Interface) available on my [GitHub](https://github.com/Mistry-Nihilityn).
 
 - **Selected Engineering Practices**  
-  - Full‑stack development: Vue, Gin, PyTorch, SQL  
+  - Full‑stack development: HTML, CSS, JS/TS, SQL, React, Vue
   - Participated in a provincial standard plan project on battery health assessment (Anhui Institute of Metrology)  
   - Software Copyright: *Intelligent Vehicle Maintenance Management System* (2025R11L2027128) – collaborated with Hunan Zhonghe Geotechnical Co., Ltd.
 
@@ -57,7 +57,6 @@ I also hold multiple ICPC/CCPC/CCSP medals, which sharpen my algorithmic impleme
 
 - **Research Tools**: MATLAB, PyTorch, Git, LaTeX
 - **Languages**: C, C++, Java, Python
-- **Web Development**: HTML, CSS, JS/TS, SQL, React, Vue
 - **Software**: Microsoft Office Suite, Adobe Creative Suite
 
 ## 📫 Contact
