@@ -1,57 +1,67 @@
 ---
 permalink: /
-title: "Yihui Wang - Software Engineering Student & Researcher"
+title: "Yihui Wang's Homepage"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am an undergraduate student in Software Engineering at [Hefei University of Technology](http://www.hfut.edu.cn), currently pursuing my Bachelor's degree with a GPA of 3.87/4.3. My research interests span time series analysis, multimodal large language models, and intelligent systems.
+## 👋 About
 
-Education
-======
-* **B.Eng. in Software Engineering**, Hefei University of Technology, 2023 - Present
-  * GPA: 3.87/4.3
+I am an undergraduate student in Software Engineering at [Hefei University of Technology](http://www.hfut.edu.cn) interested in **Interpretable Robust Learning**, **Computer Vision**, **Multimodal Learning**, and **Large Language Models**.  
+I also hold multiple ICPC/CCPC/CCSP medals, which sharpen my algorithmic implementation skills.
 
-Research Experience
-======
-**Multi-dimensional Time Series Feature Alignment and Temporal Prediction** *(Sept. 2023 - Jan. 2025)*
-*Science-Education Integration Project Extension, HFUT*
-- Research on encoding methods and modeling based on multi-dimensional temporal features
-- Development of inference prediction optimization algorithms based on eliminating feature Hamming distance
+## 📰 News
 
-**V2G Power Battery Status Measurement System** *(Dec. 2023 -  Jan. 2025)*
-*Anhui Province Local Standard Plan Project*
-- Power battery health prediction based on charge-discharge cycle characteristics
-- Development of new energy vehicle battery status management system
+- **[Feb. 2026]** Our work on **Multimodal Learning** was submitted to **ACM KDD** (under review, rebuttal phase).
+- **[Apr. 2026]** Our work on **Deepfake Detection** was submitted to **ACM MM** (under review).
 
-Awards & Honors
-======
-- **National Scholarship** (2023) - Highest undergraduate honor in China
-- **Bronze Medal**, 50th ICPC Asia Regional Contest - Chengdu (2025)
-- **Bronze Medal**, 11th CCPC Regional Contest - Jinan (2025)
-- **Bronze Medal**, 11th CCPC Regional Contest - Zhengzhou (2025)
-- **Bronze Medal**, CCSP 2025 - National College Student Computer Systems and Programming Competition
-- **First Prize**, Anhui Province Robot Competition - Programming Track (2024, 2025)
-- **Gold Medal**, Anhui Province College Student Innovation Competition (2024)
+## 🎓 Education
+
+- **B.Eng. in Software Engineering**, Hefei University of Technology, 2023 – Present  
+  *GPA: 3.88/4.3*
+
+## 🔬 Research
+
+ - **Interpretable Robust Deepfake Detection** (first author)  
+  *ACM MM 2026 (under review)*  
+  We identify the method‑sensitive subspace via a linear probe and suppress it during training/inference — improving cross‑dataset robustness.
+
+ - **Cross‑modal De‑redundancy for Recommendation** (second author)  
+  *ACM KDD (rebuttal stage)*  
+  We remove coarse‑grained cross‑modal redundancy by projecting embeddings onto the null‑space of the dominant covariance subspace — plug‑and‑play, no auxiliary loss.
+
+## 🏆 Awards & Honors
+
+- **National Scholarship** (2023)
+- **Bronze Medal** – 50th ICPC Asia Regional Contest (2025)
+- **Bronze Medal** – 11th CCPC Regional Contest (2025, 2 times)
+- **Bronze Medal** – National College Student Computer Systems and Programming Competition (CCSP, 2025)
+- **Gold Prize** – Anhui Province Innovation Competition (2024)
+- **CSP Certification** – 360/500 (top 1%)
 - *And 20+ additional awards*
 
-Software Copyright
-======
-- **RMS: Intelligent Vehicle Maintenance Management System V1.0**
-  - Co-authors: Yuhui Lin, Yiyi Wang, et al.
+## 🛠️ Misc
 
-Technical Skills
-======
+- **Open Source & Creative Engineering**  
+  - Maintain a **ManimVE** rendering engine; create scientific animations on [Bilibili](https://space.bilibili.com/1900464093).  
+  - More projects (e.g., LLM‑based Language User Interface) available on my [GitHub](https://github.com/Mistry-Nihilityn).
+
+- **Selected Engineering Practices**  
+  - Full‑stack development: Vue, Gin, PyTorch, SQL  
+  - Participated in a provincial standard plan project on battery health assessment (Anhui Institute of Metrology)  
+  - Software Copyright: *Intelligent Vehicle Maintenance Management System* (2025R11L2027128) – collaborated with Hunan Zhonghe Geotechnical Co., Ltd.
+
+## 💻 Skills
+
 - **Research Tools**: MATLAB, PyTorch, Git, LaTeX
-- **Programming**: C, C++, Java, Python
-- **Web Development**: HTML, CSS, JavaScript/TypeScript, SQL, React, Vue
+- **Languages**: C, C++, Java, Python
+- **Web Development**: HTML, CSS, JS/TS, SQL, React, Vue
 - **Software**: Microsoft Office Suite, Adobe Creative Suite
 
-Contact
-======
-- **Email**: wangyihui@mail.hfut.edu.cn
-- **Phone**: 
+## 📫 Contact
+
+- **Email**: [wangyihui@mail.hfut.edu.cn](mailto:wangyihui@mail.hfut.edu.cn)
 - **GitHub**: [Mistry-Nihilityn](https://github.com/Mistry-Nihilityn)
 - **Location**: Hefei, Anhui, China
