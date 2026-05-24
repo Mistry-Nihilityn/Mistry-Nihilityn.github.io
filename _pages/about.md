@@ -15,9 +15,9 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 
 - **[May. 2026]** Led **HFUT Team 101** to win a **Gold Medal** at the **CCPC National Invitational (Nanchang)**.
 - **[May. 2026]** Our work on **LLM Value Alignment** was submitted to **ACL Rolling Review (ARR)** (co-first author).
+- **[May. 2026]** Ongoing research on **LLM Safety Alignment**, targeting **ICLR** submission (first author).
 - **[Apr. 2026]** Our work on **Deepfake Detection** was submitted to **ACM MM** (under review).
 - **[Feb. 2026]** Our work on **Cross-modal De-redundancy** has been transferred to **AAAI**.
-- **[May. 2026]** Ongoing research on **LLM Safety Alignment**, targeting **ICLR** submission (first author).
 
 ## 🎓 Education
 
@@ -39,13 +39,13 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
   We identify the method‑sensitive subspace via a linear probe and suppress it during training/inference — improving cross‑dataset robustness.
 
  - **Cross‑modal De‑redundancy for Recommendation** (second author)  
-  *AAAI (under review)*  
+  *AAAI (submitting)*  
   We remove coarse‑grained cross‑modal redundancy by projecting embeddings onto the null‑space of the dominant covariance subspace — plug‑and‑play, no auxiliary loss.
 
 ## 🏆 Awards & Honors
 
 - **National Scholarship** (2023)
-- **Gold Medal** – CCPC National Invitational (Nanchang, 2026), Team Leader
+- **Gold Medal** – CCPC National Invitational (Nanchang, 2026)
 - **Bronze Medal** – 50th ICPC Asia Regional Contest (2025)
 - **Bronze Medal** – 11th CCPC Regional Contest (2025, 2 times)
 - **Bronze Medal** – National College Student Computer Systems and Programming Competition (CCSP, 2025)
