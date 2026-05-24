@@ -13,8 +13,11 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 
 ## 📰 News
 
-- **[Feb. 2026]** Our work on **Multimodal Learning** was submitted to **ACM KDD** (under review, rebuttal phase).
+- **[May. 2026]** Led **HFUT Team 101** to win a **Gold Medal** at the **CCPC National Invitational (Nanchang)**.
+- **[May. 2026]** Our work on **LLM Value Alignment** was submitted to **ACL Rolling Review (ARR)** (co-first author).
 - **[Apr. 2026]** Our work on **Deepfake Detection** was submitted to **ACM MM** (under review).
+- **[Feb. 2026]** Our work on **Cross-modal De-redundancy** has been transferred to **AAAI**.
+- **[May. 2026]** Ongoing research on **LLM Safety Alignment**, targeting **ICLR** submission (first author).
 
 ## 🎓 Education
 
@@ -23,17 +26,26 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 
 ## 🔬 Research
 
+ - **LLM Safety Alignment** (first author)  
+  *Targeting ICLR submission*  
+  Ongoing research on safety alignment mechanisms for large language models, addressing critical challenges in model behavior regulation.
+
+ - **LLM Value Alignment** (co-first author)  
+  *ACL ARR 2026 (under review)*  
+  We investigate value alignment mechanisms for large language models, submitted on May 21, 2026.
+
  - **Interpretable Robust Deepfake Detection** (first author)  
   *ACM MM 2026 (under review)*  
   We identify the method‑sensitive subspace via a linear probe and suppress it during training/inference — improving cross‑dataset robustness.
 
  - **Cross‑modal De‑redundancy for Recommendation** (second author)  
-  *ACM KDD (rebuttal stage)*  
+  *AAAI (under review)*  
   We remove coarse‑grained cross‑modal redundancy by projecting embeddings onto the null‑space of the dominant covariance subspace — plug‑and‑play, no auxiliary loss.
 
 ## 🏆 Awards & Honors
 
 - **National Scholarship** (2023)
+- **Gold Medal** – CCPC National Invitational (Nanchang, 2026), Team Leader
 - **Bronze Medal** – 50th ICPC Asia Regional Contest (2025)
 - **Bronze Medal** – 11th CCPC Regional Contest (2025, 2 times)
 - **Bronze Medal** – National College Student Computer Systems and Programming Competition (CCSP, 2025)
