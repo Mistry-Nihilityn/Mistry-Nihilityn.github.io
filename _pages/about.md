@@ -36,11 +36,9 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 <!-- PROJECT 1: BEACON                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div style="border: 2px dashed #ccc; padding: 40px 20px; text-align: center; background: #fafafa; margin: 20px 0; min-height: 220px;">
-  <p style="color: #999; font-size: 1.1em; margin: 0;">📷 <strong>BEACON: Framework Overview</strong></p>
-  <p style="color: #bbb; font-size: 0.85em; margin: 4px 0 0 0;">Placeholder — replace with actual figure</p>
-  <p style="color: #ccc; font-size: 0.75em; margin: 2px 0 0 0;"><code>images/research/beacon.png</code></p>
-</div>
+<p style="text-align: center; margin: 20px 0;">
+  <img src="images/beacon.png" alt="BEACON Framework Overview" style="width: 100%; max-width: 800px;">
+</p>
 
 ### LLM Deep Safety Alignment: Auditing Shallow Alignment via Representation-Level Diagnosis (BEACON)
 
@@ -55,11 +53,9 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 <!-- PROJECT 2: S³                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div style="border: 2px dashed #ccc; padding: 40px 20px; text-align: center; background: #fafafa; margin: 20px 0; min-height: 220px;">
-  <p style="color: #999; font-size: 1.1em; margin: 0;">📷 <strong>S³: Method Overview</strong></p>
-  <p style="color: #bbb; font-size: 0.85em; margin: 4px 0 0 0;">Placeholder — replace with actual figure</p>
-  <p style="color: #ccc; font-size: 0.75em; margin: 2px 0 0 0;"><code>images/research/s3.png</code></p>
-</div>
+<p style="text-align: center; margin: 20px 0;">
+  <img src="images/s3.png" alt="S³ Method Overview" style="width: 100%; max-width: 800px;">
+</p>
 
 ### S³: Suppressing Method-Specific Shortcuts for Generalizable Deepfake Detection
 
@@ -74,11 +70,9 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 <!-- PROJECT 3: NeVA                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div style="border: 2px dashed #ccc; padding: 40px 20px; text-align: center; background: #fafafa; margin: 20px 0; min-height: 220px;">
-  <p style="color: #999; font-size: 1.1em; margin: 0;">📷 <strong>NeVA: Method Overview</strong></p>
-  <p style="color: #bbb; font-size: 0.85em; margin: 4px 0 0 0;">Placeholder — replace with actual figure</p>
-  <p style="color: #ccc; font-size: 0.75em; margin: 2px 0 0 0;"><code>images/research/neva.png</code></p>
-</div>
+<p style="text-align: center; margin: 20px 0;">
+  <img src="images/neva.png" alt="NeVA Method Overview" style="width: 100%; max-width: 800px;">
+</p>
 
 ### NeVA: Controllable Value Alignment in LLMs via Neuron-Level Editing
 
