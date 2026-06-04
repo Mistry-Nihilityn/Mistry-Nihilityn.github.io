@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Yihui Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Also called Mistry-Nihilityn."
-  location         : "Anhui, China"
+  bio              : "Also called Mistry-Nihilityn. Research Intern @ NUS NExT++."
+  location         : "Hangzhou, Zhejiang, China"
   employer         : "Hefei University of Technology"
   uri              : # URL
   email            : "wangyihui@mail.hfut.edu.cn"
@@ -36,7 +36,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #
+  googlescholar    : https://scholar.google.com/citations?user=PS_CX0AAAAAJ
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : https://orcid.org/0009-0008-6683-9235

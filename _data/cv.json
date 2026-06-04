@@ -4,11 +4,11 @@
     "email": "wangyihui@mail.hfut.edu.cn",
     "phone": "",
     "website": "https://mistry-nihilityn.github.io",
-    "summary": "Undergraduate student in Software Engineering at Hefei University of Technology. Research interests include time series analysis, large language models, computer vision and interpretability. Recipient of the National Scholarship with extensive experience in competitive programming and research projects.",
+    "summary": "Undergraduate student in Software Engineering at Hefei University of Technology. Remote research intern at NUS NExT++ Research Centre, supervised by Dr. Yonghui Yang and Prof. Tat-Seng Chua. Research interests include LLM safety & alignment, robust deepfake detection, and interpretability. CCPC National Gold Medalist. National Scholarship recipient.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Hefei",
+      "city": "Hangzhou",
       "countryCode": "CN",
       "region": "Anhui"
     },
@@ -38,7 +38,7 @@
       "studyType": "Bachelor of Engineering",
       "startDate": "2023-09",
       "endDate": "Present",
-      "gpa": "3.87/4.3",
+      "gpa": "90.78/100 (Top 1.75%)",
       "courses": []
     }
   ],
@@ -83,7 +83,7 @@
   "awards": [
     {
       "title": "National Scholarship",
-      "date": "2023",
+      "date": "2024",
       "awarder": "Ministry of Education of China",
       "summary": "Highest honor for undergraduate students in China"
     },
@@ -131,6 +131,36 @@
     }
   ],
   "projects": [
+    {
+      "name": "LLM Deep Safety Alignment: BEACON",
+      "startDate": "2025",
+      "endDate": "Present",
+      "description": "NUS NExT++ Research Centre. First Author, targeting ICLR 2027.",
+      "highlights": [
+        "Quantified belief-behavior gap: internal probes >95% accuracy, yet compliance surges from <2% to >50%",
+        "Proposed BEACON: token-wise consistency losses cut adversarial success rate from >50% to ≤5% across four models"
+      ]
+    },
+    {
+      "name": "S³: Suppressing Method-Specific Shortcuts for Generalizable Deepfake Detection",
+      "startDate": "2025",
+      "endDate": "2026",
+      "description": "NUS NExT++ Research Centre. First Author, ACM MM 2026 (CCF-A, Under Review).",
+      "highlights": [
+        "Identified root cause of cross-domain failure: detectors learn forgery method, not forgery presence",
+        "Designed NSP (gradient projection) and NAE (plug-in inference module); cross-domain AUC gain 10× in-domain cost"
+      ]
+    },
+    {
+      "name": "NeVA: Controllable Value Alignment in LLMs via Neuron-Level Editing",
+      "startDate": "2026",
+      "endDate": "Present",
+      "description": "NUS NExT++ Research Centre. Co-first Author, WWW 2026 (CCF-A, Under Review).",
+      "highlights": [
+        "Locates and edits sparse neuron subsets governing specific value outputs in LLMs/LVLMs",
+        "Enables fine-grained value alignment without parameter updates"
+      ]
+    },
     {
       "name": "Multi-dimensional Time Series Feature Alignment and Temporal Prediction Method Optimization",
       "startDate": "2023-09",
