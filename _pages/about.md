@@ -14,7 +14,7 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 ## 📰 News
 
 - **[May. 2026]** Led **HFUT Team 101** to win a **Gold Medal** at the **CCPC National Invitational (Nanchang)**.
-- **[Jun. 2026]** Led **HFUT Team 101** to win a **Silver Medal** at the **CCPC National Invitational (Guiyang)**.
+- **[Jun. 2026]** Won a **Silver Medal** at the **CCPC National Invitational (Guiyang)** as a member of **Exercise Everyday**.
 - **[May. 2026]** Our work **NeVA** (Neuron-level Value Alignment) was submitted to **ACL Rolling Review (ARR)** (CCF-A, co-first author).
 - **[Apr. 2026]** Our work **S³** (Suppressing Method-Specific Shortcuts) was submitted to **ACM MM 2026** (CCF-A, first author).
 - **[Feb. 2026]** Our work **CLEAR** (Cross-modal De-redundancy) has been transferred to **AAAI** (CCF-A).
