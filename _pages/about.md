@@ -14,7 +14,8 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 ## 📰 News
 
 - **[May. 2026]** Led **HFUT Team 101** to win a **Gold Medal** at the **CCPC National Invitational (Nanchang)**.
-- **[May. 2026]** Our work **NeVA** (Neuron-level Value Alignment) was submitted to **WWW 2026** (CCF-A, co-first author).
+- **[Jun. 2026]** Led **HFUT Team 101** to win a **Silver Medal** at the **CCPC National Invitational (Guiyang)**.
+- **[May. 2026]** Our work **NeVA** (Neuron-level Value Alignment) was submitted to **ACL Rolling Review (ARR)** (CCF-A, co-first author).
 - **[Apr. 2026]** Our work **S³** (Suppressing Method-Specific Shortcuts) was submitted to **ACM MM 2026** (CCF-A, first author).
 - **[Feb. 2026]** Our work **CLEAR** (Cross-modal De-redundancy) has been transferred to **AAAI** (CCF-A).
 - **[2025]** Ongoing research on **LLM Deep Safety Alignment (BEACON)**, targeting **ICLR 2027** (first author).
@@ -76,7 +77,7 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 
 ### NeVA: Controllable Value Alignment in LLMs via Neuron-Level Editing
 
-**Co-first Author** · **WWW 2026** (CCF-A, Under Review) · 2026
+**Co-first Author** · **ACL ARR** (CCF-A, Under Review) · 2026
 
 - Locates and edits the sparse subset of neurons governing specific value outputs in LLMs and LVLMs, enabling **fine-grained value alignment without parameter updates**.
 
@@ -92,6 +93,7 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 
 - **National Scholarship**, Top 1% — Ministry of Education of China (2024)
 - **Gold Medal** — CCPC National Invitational, Nanchang (2026)
+- **Silver Medal** — CCPC National Invitational, Guiyang (2026)
 - **Bronze Medal** — ICPC Asia Regional, Chengdu (2025)
 - **Bronze Medal**, 2× — CCPC Regional, Jinan & Zhengzhou (2025)
 - **Bronze Medal** — CCF CCSP; CSP 360/500, Top 1% (2025)
