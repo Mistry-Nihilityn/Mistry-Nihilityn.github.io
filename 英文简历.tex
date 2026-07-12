@@ -1,0 +1,271 @@
+%-------------------------
+% Resume in Latex
+% Customized for Yihui Wang — PhD Application (Fall 2027)
+%------------------------
+
+%---- Required Packages and Functions ----
+
+\documentclass[a4paper,11pt]{article}
+\usepackage{latexsym}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{ragged2e}
+\usepackage[empty]{fullpage}
+\usepackage{wrapfig}
+\usepackage{lipsum}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{geometry}
+\usepackage{marvosym}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{cfr-lm}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\setlength{\multicolsep}{0pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\geometry{left=1.4cm, top=0.8cm, right=1.2cm, bottom=1cm}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue,
+}
+\usepackage[most]{tcolorbox}
+\tcbset{
+    frame code={}
+    center title,
+    left=0pt,
+    right=0pt,
+    top=0pt,
+    bottom=0pt,
+    colback=gray!20,
+    colframe=white,
+    width=\dimexpr\textwidth\relax,
+    enlarge left by=-2mm,
+    boxsep=4pt,
+    arc=0pt,outer arc=0pt,
+}
+
+\urlstyle{same}
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-7pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item{\textbf{#1}{:\hspace{0.5mm}#2 \vspace{-0.5mm}}}
+}
+
+\newcommand{\resumePOR}[3]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1},\hspace{0.3mm}#2 & \textit{\small{#3}}
+    \end{tabular*}
+    \vspace{-2mm}
+}
+
+\newcommand{\resumeProject}[4]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1} & \textit{\footnotesize{#3}} \\
+        \footnotesize{\textit{#2}} & \footnotesize{#4}
+    \end{tabular*}
+    \vspace{-2.4mm}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemi}{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*,labelsep=0mm]}
+\newcommand{\resumeHeadingSkillStart}{\begin{itemize}[leftmargin=*,itemsep=1.7mm, rightmargin=2ex]}
+\newcommand{\resumeItemListStart}{\begin{justify}\begin{itemize}[leftmargin=3ex, rightmargin=2ex, noitemsep,labelsep=1.2mm,itemsep=0mm]\small}
+
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{2mm}}
+\newcommand{\resumeHeadingSkillEnd}{\end{itemize}\vspace{-2mm}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\end{justify}\vspace{-2mm}}
+\newcommand{\cvsection}[1]{%
+\vspace{2mm}
+\begin{tcolorbox}
+    \textbf{\large #1}
+\end{tcolorbox}
+    \vspace{-4mm}
+}
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}%
+\newcolumntype{R}{>{\raggedleft\arraybackslash}X}%
+\newcolumntype{C}{>{\centering\arraybackslash}X}%
+
+%-------------------------------------------
+%%%%%%  CV CONTENT  %%%%%%%%%%%
+\newcommand{\name}{Yihui Wang}
+\newcommand{\phone}{(86) 152-6883-1452}
+\newcommand{\emaila}{wangyihui@mail.hfut.edu.cn}
+\newcommand{\emailb}{mistrynihilityn@gmail.com}
+\newcommand{\github}{Mistry-Nihilityn}
+\newcommand{\website}{https://mistry-nihilityn.github.io}
+
+\begin{document}
+\fontfamily{cmr}\selectfont
+
+%----------HEADING-----------------
+\parbox{3cm}{%
+\includegraphics[width=2.75cm,clip]{6.png}
+}\parbox{\dimexpr\linewidth-2.8cm\relax}{
+\begin{tabularx}{\linewidth}{L r}
+  \textbf{\LARGE \name} & \phone\\
+  {B.Eng.\ Software Engineering @ HFUT} & \href{mailto:\emaila}{\emaila} \\
+  {Research Intern, NUS NExT++ Research Centre} & \href{mailto:\emailb}{\emailb}\\
+  {Hangzhou, Zhejiang, China} & \href{https://github.com/\github}{GitHub} $|$ \href{\website}{Homepage}\\
+\end{tabularx}
+}
+
+%-----------EDUCATION-----------------
+\section{Education}
+\setlength{\tabcolsep}{5pt}
+\small{\begin{tabularx}
+{\dimexpr\textwidth-3mm\relax}{|c|C|c|c|}
+  \hline
+  \textbf{Degree} & \textbf{Institute} & \textbf{GPA / Rank} & \textbf{Period}\\
+  \hline
+  B.Eng.\ Software Engineering & Hefei Univ.\ of Technology & 90.78/100, Top 1.75\% & 2023--2027\\
+  \hline
+  Remote Research Intern & NUS NExT++ Research Centre & --- & 2025--Present\\
+  \hline
+\end{tabularx}}
+\vspace{-2mm}
+
+
+%-----------RESEARCH EXPERIENCE-----------------
+\section{Research Experience}
+\vspace{-0.4mm}
+{\small\textit{All work conducted at NUS NExT++ Research Centre, supervised by Dr.\ Yonghui Yang and Prof.\ Tat-Seng Chua, NUS Chair Professor, Singapore National Academy of Sciences.}}
+\resumeSubHeadingListStart
+
+    \resumeProject
+      {LLM Deep Safety Alignment: Auditing Shallow Alignment via Representation-Level Diagnosis}
+      {First Author, under-going, targeting ICLR 2027, CCF-A}
+      {2025--Present}
+      {}
+    \resumeItemListStart
+        \item {Quantified a \textbf{belief-behavior gap}: internal probes detect harmful intent
+            with {>}95\% accuracy at any prefix length, yet model compliance surges from {<}2\%
+            to {>}50\% as prefix grows, proving alignment failure is a \emph{generation} problem,
+            not a \emph{representation} problem.}
+        \item {Proposed \textbf{BEACON}: token-wise consistency losses anchor the model's
+            generation behavior to its own internal harmfulness judgment, maintaining refusal
+            robustness regardless of prefix length. Cuts adversarial attack success from
+            $>$50\% to $\leq$5\% across up to 3,000-token prefixes in four models.}
+    \resumeItemListEnd
+
+    \resumeProject
+      {S\textsuperscript{3}: Suppressing Method-Specific Shortcuts for Generalizable Deepfake Detection}
+      {First Author, Targeting CVPR 2027, CCF-A}
+      {2025--2026}
+      {}
+    \resumeItemListStart
+    \item {Identified the root cause of cross-domain failure in deepfake detection:
+        trained detectors learn to classify forgery \textit{method} rather than
+        forgery \textit{presence} — a shortcut that makes out-of-distribution
+        collapse structurally inevitable, regardless of backbone or data scale.}
+    \item {Designed two independent remedies: gradient projection (NSP) steers
+        training away from method-discriminative feature directions; a plug-in
+        inference module (NAE) achieves the same effect without backbone retraining.
+        Cross-domain AUC gains exceed 10$\times$ the in-domain cost, validated
+        across four backbones and a fully held-out open-world benchmark.}
+    \resumeItemListEnd
+
+    \resumeProject
+      {NeVA: Controllable Value Alignment in LLMs via Neuron-Level Editing}
+      {Co-first Author, Submitting to WWW 2026, CCF-A}
+      {2026}
+      {}
+      \resumeItemListStart
+        \item {Locates and edits the sparse subset of neurons governing specific value outputs in LLMs/LVLMs, enabling fine-grained alignment without parameter updates.}
+    \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+\vspace{-5.5mm}
+
+
+%-----------HONORS & AWARDS-----------------
+\section{Honors \& Awards}
+\vspace{-0.4mm}
+\resumeSubHeadingListStart
+    \resumePOR{National Scholarship, Top 1\%}
+        {Ministry of Education of China}
+        {2024}
+    \resumePOR{Gold Medal, CCPC National Invitational}
+        {Nanchang}
+        {2026}
+    \resumePOR{Bronze Medal, ICPC Asia Regional}
+        {Chengdu}
+        {2025}
+    \resumePOR{Bronze Medal, 2\texttimes, CCPC Regional}
+        {Jinan, Zhengzhou}
+        {2025}
+    \resumePOR{Bronze Medal, CCF CCSP, CSP 360/500, Top 1\%}
+        {}
+        {2025}
+    \resumePOR{First Prize, 2\texttimes, Anhui Robot Competition --- Programming Track}
+        {}
+        {2024, 2025}
+    \resumePOR{Gold Prize, Anhui Province Innovation Competition}
+        {}
+        {2024}
+\resumeSubHeadingListEnd
+\vspace{-2mm}
+
+
+%-----------LEADERSHIP & SERVICE-----------------
+\section{Leadership \& Service}
+\vspace{-0.4mm}
+\resumeSubHeadingListStart
+    \resumePOR{ACM Team Leader, HFUT XCPC Team}
+        {Binary Algorithm Studio}
+        {2024--Present}
+    \resumeItemListStart
+        \item {CCPC National Gold Medalist; lead daily training and solution-sharing for 20+ members.}
+        \item {Problem setter and organizer for HFUT ACM School Contest and Anhui Province Programming Competition, 100+ teams.}
+    \resumeItemListEnd
+    \resumePOR{Video Team Lead}
+        {HFUT University Media Center --- Visual Imaging Studio}
+        {2023--2025}
+    \resumeItemListStart
+        \item {Produced 10+ official university videos, several adopted by Xinhua News Agency.}
+        \item {Organized cross-college photography and film editing courses reaching 300+ students.}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+\vspace{-4mm}
+
+
+%-----------TECHNICAL STRENGTHS-----------------
+\section{Technical Strengths}
+\vspace{-0.4mm}
+\resumeHeadingSkillStart
+  \resumeSubItem{Research Focus}
+    {LLM Safety \& Alignment \textbar{} Robust Deepfake Detection \textbar{} Interpretability}
+  \resumeSubItem{Engineering}
+    {CCPC National Gold Medalist; production-grade full-stack developer in Python, C/C++, Java, Qt, and modern web frameworks; ship complex systems from prototype to deployment; 2 software copyrights}
+  \resumeSubItem{Tools \& Languages}
+    {PyTorch, MATLAB, \LaTeX, Git \textbar{} English CET-6: 553}
+  \resumeSubItem{Open Source \& Community}
+    {Maintainer of ManimVE rendering engine; educational math/CS animation creator on Bilibili; active open-source contributor}
+\resumeHeadingSkillEnd
+\vspace{-4mm}
+
+%-------------------------------------------
+\end{document}

@@ -16,7 +16,7 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 - **[May. 2026]** Led **HFUT Team 101** to win a **Gold Medal** at the **CCPC National Invitational (Nanchang)**.
 - **[Jun. 2026]** Won a **Silver Medal** at the **CCPC National Invitational (Guiyang)** as a member of **Exercise Everyday**.
 - **[May. 2026]** Our work **NeVA** (Neuron-level Value Alignment) was submitted to **ACL Rolling Review (ARR)** (CCF-A, co-first author).
-- **[Apr. 2026]** Our work **S³** (Suppressing Method-Specific Shortcuts) was submitted to **ACM MM 2026** (CCF-A, first author).
+- **[Apr. 2026]** Our work **S³** (Suppressing Method-Specific Shortcuts) is targeting **CVPR 2027** (CCF-A, first author).
 - **[Feb. 2026]** Our work **CLEAR** (Cross-modal De-redundancy) has been transferred to **AAAI** (CCF-A).
 - **[2025]** Ongoing research on **LLM Deep Safety Alignment (BEACON)**, targeting **ICLR 2027** (first author).
 
@@ -60,7 +60,7 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 
 ### S³: Suppressing Method-Specific Shortcuts for Generalizable Deepfake Detection
 
-**First Author** · **ACM MM 2026** (CCF-A, Under Review) · 2025 – 2026
+**First Author** · Targeting **CVPR 2027** (CCF-A) · 2025 – 2026
 
 - **Identified the root cause** of cross-domain failure in deepfake detection: trained detectors learn to classify forgery *method* rather than forgery *presence* — a shortcut that makes out-of-distribution collapse structurally inevitable, regardless of backbone or data scale.
 - **Designed two independent remedies**: gradient projection (**NSP**) steers training away from method-discriminative feature directions; a plug-in inference module (**NAE**) achieves the same effect without backbone retraining. Cross-domain AUC gains exceed 10× the in-domain cost, validated across four backbones and a fully held-out open-world benchmark.

@@ -1,0 +1,252 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage{ctex}
+\usepackage{latexsym}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{ragged2e}
+\usepackage[empty]{fullpage}
+\usepackage{wrapfig}
+\usepackage{lipsum}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{geometry}
+\usepackage{marvosym}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{cfr-lm}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\setlength{\multicolsep}{0pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\geometry{left=1.4cm, top=0.8cm, right=1.2cm, bottom=1cm}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue,
+}
+\usepackage[most]{tcolorbox}
+\tcbset{
+    frame code={}
+    center title,
+    left=0pt,
+    right=0pt,
+    top=0pt,
+    bottom=0pt,
+    colback=gray!20,
+    colframe=white,
+    width=\dimexpr\textwidth\relax,
+    enlarge left by=-2mm,
+    boxsep=4pt,
+    arc=0pt,outer arc=0pt,
+}
+
+\urlstyle{same}
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-7pt}]
+
+%-------------------------
+% 自定义命令
+\newcommand{\resumeItem}[2]{
+  \item{\textbf{#1}{:\hspace{0.5mm}#2 \vspace{-0.5mm}}}
+}
+
+\newcommand{\resumePOR}[3]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1},\hspace{0.3mm}#2 & \textit{\small{#3}}
+    \end{tabular*}
+    \vspace{-2mm}
+}
+
+\newcommand{\resumeProject}[4]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1} & \textit{\footnotesize{#3}} \\
+        \footnotesize{\textit{#2}} & \footnotesize{#4}
+    \end{tabular*}
+    \vspace{-2.4mm}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemi}{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*,labelsep=0mm]}
+\newcommand{\resumeHeadingSkillStart}{\begin{itemize}[leftmargin=*,itemsep=1.7mm, rightmargin=2ex]}
+\newcommand{\resumeItemListStart}{\begin{justify}\begin{itemize}[leftmargin=3ex, rightmargin=2ex, noitemsep,labelsep=1.2mm,itemsep=0mm]\small}
+
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{2mm}}
+\newcommand{\resumeHeadingSkillEnd}{\end{itemize}\vspace{-2mm}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\end{justify}\vspace{-2mm}}
+\newcommand{\cvsection}[1]{%
+\vspace{2mm}
+\begin{tcolorbox}
+    \textbf{\large #1}
+\end{tcolorbox}
+    \vspace{-4mm}
+}
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}%
+\newcolumntype{R}{>{\raggedleft\arraybackslash}X}%
+\newcolumntype{C}{>{\centering\arraybackslash}X}%
+
+%-------------------------------------------
+%%%%%% 简历内容  %%%%%%%%%%%
+\newcommand{\name}{王熠辉}
+\newcommand{\phone}{(86) 152-6883-1452}
+\newcommand{\emaila}{wangyihui@mail.hfut.edu.cn}
+\newcommand{\emailb}{mistrynihilityn@gmail.com}
+\newcommand{\github}{Mistry-Nihilityn}
+\newcommand{\website}{https://mistry-nihilityn.github.io}
+
+\begin{document}
+\fontfamily{cmr}\selectfont
+
+%----------头部-----------------
+\parbox{3cm}{%
+\includegraphics[width=2.75cm,clip]{6.png}
+}\parbox{\dimexpr\linewidth-2.8cm\relax}{
+\begin{tabularx}{\linewidth}{L r}
+  \textbf{\LARGE \name} & \phone\\
+  {软件工程 工学学士，合肥工业大学，2027届} & \href{mailto:\emaila}{\emaila} \\
+  {科研实习生，新加坡国立大学 NExT++ 研究中心} & \href{mailto:\emailb}{\emailb}\\
+  {浙江 杭州} & \href{https://github.com/\github}{GitHub} $|$ \href{\website}{个人主页}\\
+\end{tabularx}
+}
+
+%-----------教育经历-----------------
+\section{教育经历}
+\setlength{\tabcolsep}{5pt}
+\small{\begin{tabularx}
+{\dimexpr\textwidth-3mm\relax}{|c|C|c|c|}
+  \hline
+  \textbf{学位} & \textbf{学校/机构} & \textbf{绩点 / 排名} & \textbf{时间}\\
+  \hline
+  软件工程 工学学士 & 合肥工业大学 & 90.78/100，前 1.75\% & 2023--2027\\
+  \hline
+  远程科研实习 & 新加坡国立大学 NExT++ 研究中心 & --- & 2025 至今\\
+  \hline
+\end{tabularx}}
+\vspace{-2mm}
+
+
+%-----------科研经历-----------------
+\section{科研经历}
+\vspace{-0.4mm}
+{\small\textit{全部工作于新加坡国立大学 NExT++ 研究中心完成，由杨永晖博士与蔡达成教授，NUS 讲席教授、新加坡国家科学院院士，共同指导。}}
+\resumeSubHeadingListStart
+
+    \resumeProject
+      {LLM 深度安全对齐：基于表征层诊断的浅层对齐审计}
+      {第一作者，进行中，目标 ICLR 2027}
+      {2026 至今}
+      {}
+      \resumeItemListStart
+        \item {量化了一个信念-行为差距：内部探针在任意前缀长度下对有害意图的检测准确率均超过 95\%，但随前缀增长，模型顺从率从不足 2\% 飙升到 50\% 以上——证明对齐失败是生成侧问题而非表征侧问题。}
+        \item {提出 BEACON：逐 token 一致性损失将模型的生成行为锚定于其自身内部的有害性判断，在任意前缀长度下保持拒绝鲁棒性。将对抗攻击成功率从超过 50\% 降至不超过 5\%，覆盖四个模型、长达 3000 token 前缀。}
+    \resumeItemListEnd
+
+    \resumeProject
+      {S\textsuperscript{3}：抑制方法敏感捷径的可泛化深伪检测}
+      {第一作者，目标投稿 CVPR 2027，CCF-A 类会议}
+      {2025--2026}
+      {}
+    \resumeItemListStart
+    \item {揭示深伪检测跨域失效的根因：训练后的检测器学会的是分类伪造方法而非伪造存在——这一捷径使得分布外退化在结构上不可避免，与骨干网络或数据规模无关。}
+    \item {设计两种独立补救方案：梯度投影 NSP 引导训练远离方法判别性特征方向；即插即用推理模块 NAE 无需骨干重训即可达到同等效果。跨域 AUC 增益超过域内代价的 10 倍，在四个骨干网络和一个完全隔离的开放世界基准上验证。}
+    \resumeItemListEnd
+
+    \resumeProject
+      {NeVA：基于神经元级编辑的 LLM 可控价值对齐}
+      {共同第一作者，投稿 WWW 2027，CCF-A 类会议}
+      {2026 至今}
+      {}
+      \resumeItemListStart
+        \item {定位并编辑 LLM/LVLM 中决定特定价值输出的稀疏神经元集合，无需参数更新实现细粒度价值对齐。}
+    \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+\vspace{-5.5mm}
+
+
+%-----------荣誉与获奖-----------------
+\section{荣誉与获奖}
+\vspace{-0.4mm}
+\resumeSubHeadingListStart
+    \resumePOR{国家奖学金，前 1\%}
+        {中华人民共和国教育部}
+        {2024}
+    \resumePOR{金牌，CCPC 全国邀请赛}
+        {南昌}
+        {2026}
+    \resumePOR{铜牌，ICPC 亚洲区域赛}
+        {成都}
+        {2025}
+    \resumePOR{铜牌，2×，CCPC 区域赛}
+        {济南、郑州}
+        {2025}
+    \resumePOR{铜牌，CCF CCSP，CSP 360/500，前 1\%}
+        {}
+        {2025}
+    \resumePOR{一等奖，2×，安徽省机器人大赛程序设计赛道}
+        {}
+        {2024, 2025}
+    \resumePOR{金奖，安徽省大学生创新大赛}
+        {}
+        {2024}
+\resumeSubHeadingListEnd
+\vspace{-2mm}
+
+
+%-----------领导力与实践-----------------
+\section{领导力与实践}
+\vspace{-0.4mm}
+\resumeSubHeadingListStart
+    \resumePOR{ACM 队长，合肥工业大学 XCPC 校队}
+        {合工大 101 队，Binary Algorithm Studio}
+        {2024 至今}
+    \resumeItemListStart
+        \item {CCPC 全国邀请赛金牌选手；领导 20 余名队员的日常训练与题解分享。}
+        \item {担任校 ACM 竞赛与安徽省程序设计竞赛命题人及组织者，服务 100 余支参赛队伍。}
+    \resumeItemListEnd
+    \resumePOR{视频组组长}
+        {合肥工业大学全媒体中心 --- 视觉影像工作室}
+        {2023--2025}
+    \resumeItemListStart
+        \item {制作 10 余部官方视频，多部被新华社采纳。}
+        \item {组织跨学院摄影与剪辑公开课，覆盖 300 余人。}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+\vspace{-4mm}
+
+
+%-----------技术能力-----------------
+\section{技术能力}
+\vspace{-0.4mm}
+\resumeHeadingSkillStart
+  \resumeSubItem{研究方向}
+    {LLM 安全与对齐 \textbar{} 鲁棒深伪检测 \textbar{} 可解释性}
+  \resumeSubItem{工程能力}
+    {CCPC 全国邀请赛金牌选手；具备生产级全栈交付能力，熟练掌握 Python、C/C++、Java、Qt 及现代 Web 框架，可独立完成复杂系统从原型到部署的全流程；2 项软件著作权}
+  \resumeSubItem{工具与语言}
+    {PyTorch、MATLAB、\LaTeX、Git \textbar{} 英语 CET-6：553}
+  \resumeSubItem{开源与社区}
+    {ManimVE 渲染引擎维护者；B 站数学/CS 科普动画创作者；活跃开源贡献者}
+\resumeHeadingSkillEnd
+\vspace{-4mm}
+
+%-------------------------------------------
+\end{document}

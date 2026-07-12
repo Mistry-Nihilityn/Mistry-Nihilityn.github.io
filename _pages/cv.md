@@ -24,7 +24,7 @@ redirect_from:
   Quantified a belief-behavior gap where internal probes detect harmful intent with >95% accuracy, yet model compliance surges from <2% to >50% as prefix length grows. Proposed BEACON: token-wise consistency losses that cut adversarial attack success from >50% to ≤5% across four models and up to 3,000-token prefixes.
 
 - **S³: Suppressing Method-Specific Shortcuts for Generalizable Deepfake Detection**  
-  *First Author · ACM MM 2026 (CCF-A, Under Review) · 2025–2026*  
+  *First Author · Targeting CVPR 2027 (CCF-A) · 2025–2026*  
   Identified that trained detectors classify forgery *method* rather than forgery *presence* — a shortcut making OOD collapse structurally inevitable. Designed NSP (gradient projection) and NAE (plug-in inference module); cross-domain AUC gains exceed 10× in-domain cost across four backbones.
 
 - **NeVA: Controllable Value Alignment in LLMs via Neuron-Level Editing**  
