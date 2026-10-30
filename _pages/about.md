@@ -15,7 +15,7 @@ I have been recommended for admission (保研) to the [University of Chinese Aca
 
 ## 📰 News
 
-- **[2026]** Our work **DeepRecover** (Learning Cross-Depth Safety Recovery for LLMs) is **under review at ICLR 2027** (CCF-A, first author).
+- **[2026]** Our work **DeepRecover** is **under review at ICLR 2027** (CCF-A, first author).
 - **[May. 2026]** Led **HFUT Team 101** to win a **Gold Medal** at the **CCPC National Invitational (Nanchang)**.
 - **[Jun. 2026]** Won a **Silver Medal** at the **CCPC National Invitational (Guiyang)** as a member of **Exercise Everyday**.
 - **[Oct. 2026]** Won a **Silver Medal** at **CCF CCSP (Chengdu)**.
