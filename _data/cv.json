@@ -182,7 +182,7 @@
       "name": "NeVA: Controllable Value Alignment in LLMs via Neuron-Level Editing",
       "startDate": "2026",
       "endDate": "Present",
-      "description": "NUS NExT++ Research Centre. Co-first Author, ACL ARR (CCF-A, Under Review).",
+      "description": "NUS NExT++ Research Centre. Co-first Author, ACL ARR (CCF-A, To Be Submitted).",
       "highlights": [
         "Locates and edits sparse neuron subsets governing specific value outputs in LLMs/LVLMs",
         "Enables fine-grained value alignment without parameter updates"

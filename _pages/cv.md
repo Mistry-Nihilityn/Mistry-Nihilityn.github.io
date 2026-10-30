@@ -30,7 +30,7 @@ redirect_from:
   Identified that trained detectors classify forgery *method* rather than forgery *presence* — a shortcut making OOD collapse structurally inevitable. Designed NSP (gradient projection) and NAE (plug-in inference module); cross-domain AUC gains exceed 10× in-domain cost across four backbones.
 
 - **NeVA: Controllable Value Alignment in LLMs via Neuron-Level Editing**  
-  *Co-first Author · ACL ARR (CCF-A, Under Review) · 2026*  
+  *Co-first Author · ACL ARR (CCF-A, To Be Submitted) · 2026*  
   Locates and edits sparse neuron subsets governing specific value outputs in LLMs/LVLMs for fine-grained alignment without parameter updates.
 
 - **CLEAR: Null-Space Projection for Cross-Modal De-Redundancy in Multimodal Recommendation**  

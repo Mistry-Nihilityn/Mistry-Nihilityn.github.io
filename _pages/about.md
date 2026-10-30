@@ -20,7 +20,7 @@ I have been recommended for graduate admission to the [University of Chinese Aca
 - **[2026]** Our work **DeepRecover** is **under review at ICLR 2027** (CCF-A, second author).
 - **[Jun. 2026]** Won a **Silver Medal** at the **CCPC National Invitational (Guiyang)** as a member of **Exercise Everyday**.
 - **[May. 2026]** Led **HFUT Team 101** to win a **Gold Medal** at the **CCPC National Invitational (Nanchang)**.
-- **[May. 2026]** Our work **NeVA** (Neuron-level Value Alignment) was submitted to **ACL Rolling Review (ARR)** (CCF-A, co-first author).
+- **[May. 2026]** Our work **NeVA** (Neuron-level Value Alignment) is being prepared for **ACL Rolling Review (ARR)** (CCF-A, co-first author).
 - **[Apr. 2026]** Our work **S³** (Suppressing Method-Specific Shortcuts) is targeting **CVPR 2027** (CCF-A, first author).
 - **[Feb. 2026]** Our work **CLEAR** (Cross-modal De-redundancy) has been transferred to **AAAI** (CCF-A).
 
@@ -83,7 +83,7 @@ I have been recommended for graduate admission to the [University of Chinese Aca
 
 ### NeVA: Controllable Value Alignment in LLMs via Neuron-Level Editing
 
-**Co-first Author** · **ACL ARR** (CCF-A, Under Review) · 2026
+**Co-first Author** · **ACL ARR** (CCF-A, To Be Submitted) · 2026
 
 - Locates and edits the sparse subset of neurons governing specific value outputs in LLMs and LVLMs, enabling **fine-grained value alignment without parameter updates**.
 
