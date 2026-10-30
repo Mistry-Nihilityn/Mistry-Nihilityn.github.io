@@ -22,7 +22,7 @@ redirect_from:
 *All work conducted at NUS NExT++ Research Centre.*
 
 - **DeepRecover: Learning Cross-Depth Safety Recovery for Large Language Models**  
-  *First Author · ICLR 2027 (CCF-A, Under Review) · 2025–2026*  
+  *Second Author · ICLR 2027 (CCF-A, Under Review) · 2025–2026*  
   Diagnosed a cross-depth generalization gap: deep-safety methods recover at the prefix depths they were trained on but degrade beyond them. Proposed DeepRecover — a privileged safety anchor built from the clean query plus safety information, shared transition tokens for state redirection, and token-wise unbalanced optimal transport for recovery alignment. Unseen-depth ASR falls to 0.17–2.63% versus 37–42% for prior deep-alignment baselines across four LLMs, with MMLU preserved.
 
 - **S³: Suppressing Method-Specific Shortcuts for Generalizable Deepfake Detection**  

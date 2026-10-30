@@ -162,7 +162,7 @@
       "name": "DeepRecover: Learning Cross-Depth Safety Recovery for Large Language Models",
       "startDate": "2025",
       "endDate": "2026",
-      "description": "NUS NExT++ Research Centre. First Author, ICLR 2027 (CCF-A, Under Review).",
+      "description": "NUS NExT++ Research Centre. Second Author, ICLR 2027 (CCF-A, Under Review).",
       "highlights": [
         "Diagnosed a cross-depth generalization gap: deep-safety methods degrade once evaluation moves beyond the prefix depths observed during training",
         "Proposed DeepRecover: privileged safety anchor, shared transition tokens, and token-wise unbalanced optimal transport; unseen-depth ASR 0.17–2.63% vs 37–42% for prior baselines across four LLMs"

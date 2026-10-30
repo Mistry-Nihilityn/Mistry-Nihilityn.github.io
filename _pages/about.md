@@ -15,11 +15,11 @@ I have been recommended for graduate admission to the [University of Chinese Aca
 
 ## 📰 News
 
-- **[2026]** Our work **DeepRecover** is **under review at ICLR 2027** (CCF-A, first author).
-- **[May. 2026]** Led **HFUT Team 101** to win a **Gold Medal** at the **CCPC National Invitational (Nanchang)**.
-- **[Jun. 2026]** Won a **Silver Medal** at the **CCPC National Invitational (Guiyang)** as a member of **Exercise Everyday**.
 - **[Oct. 2026]** Won a **Silver Medal** at **CCF CCSP (Chengdu)**.
-- **[Oct. 2026]** Won a **Bronze Medal** at the **ICPC Asia Regional (Chengdu)** with team **Hefei Uncles of Technology**.
+- **[Oct. 2026]** Led **Hefei Uncles of Technology** to win a **Bronze Medal** at the **ICPC Asia Regional (Chengdu)**.
+- **[2026]** Our work **DeepRecover** is **under review at ICLR 2027** (CCF-A, second author).
+- **[Jun. 2026]** Won a **Silver Medal** at the **CCPC National Invitational (Guiyang)** as a member of **Exercise Everyday**.
+- **[May. 2026]** Led **HFUT Team 101** to win a **Gold Medal** at the **CCPC National Invitational (Nanchang)**.
 - **[May. 2026]** Our work **NeVA** (Neuron-level Value Alignment) was submitted to **ACL Rolling Review (ARR)** (CCF-A, co-first author).
 - **[Apr. 2026]** Our work **S³** (Suppressing Method-Specific Shortcuts) is targeting **CVPR 2027** (CCF-A, first author).
 - **[Feb. 2026]** Our work **CLEAR** (Cross-modal De-redundancy) has been transferred to **AAAI** (CCF-A).
@@ -48,7 +48,7 @@ I have been recommended for graduate admission to the [University of Chinese Aca
 
 ### DeepRecover: Learning Cross-Depth Safety Recovery for Large Language Models
 
-**First Author** · **ICLR 2027** (CCF-A, Under Review) · 2025 – 2026
+**Second Author** · **ICLR 2027** (CCF-A, Under Review) · 2025 – 2026
 
 - **Diagnosed a cross-depth generalization gap**: existing deep-safety methods recover well at the prefix depths they were trained on, then degrade sharply once evaluation moves beyond them — so the problem is not recovering at *more* positions, but keeping recovery effective as the underlying generation state shifts.
 - **Proposed DeepRecover**: a privileged-anchor framework that builds a shared recovery anchor from the clean query plus safety information, corrects the *initial-state mismatch* with shared transition tokens, and aligns the *trajectory mismatch* via token-wise unbalanced optimal transport over teacher-rank support — without extra inference-time intervention.
