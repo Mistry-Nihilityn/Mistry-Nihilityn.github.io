@@ -13,12 +13,12 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 
 ## 📰 News
 
+- **[2026]** Our work **DeepRecover** (Learning Cross-Depth Safety Recovery for LLMs) is **under review at ICLR 2027** (CCF-A, first author).
 - **[May. 2026]** Led **HFUT Team 101** to win a **Gold Medal** at the **CCPC National Invitational (Nanchang)**.
 - **[Jun. 2026]** Won a **Silver Medal** at the **CCPC National Invitational (Guiyang)** as a member of **Exercise Everyday**.
 - **[May. 2026]** Our work **NeVA** (Neuron-level Value Alignment) was submitted to **ACL Rolling Review (ARR)** (CCF-A, co-first author).
 - **[Apr. 2026]** Our work **S³** (Suppressing Method-Specific Shortcuts) is targeting **CVPR 2027** (CCF-A, first author).
 - **[Feb. 2026]** Our work **CLEAR** (Cross-modal De-redundancy) has been transferred to **AAAI** (CCF-A).
-- **[2025]** Ongoing research on **LLM Deep Safety Alignment (BEACON)**, targeting **ICLR 2027** (first author).
 
 ## 🎓 Education
 
@@ -34,19 +34,20 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- PROJECT 1: BEACON                                                      -->
+<!-- PROJECT 1: DeepRecover                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p style="text-align: center; margin: 20px 0;">
-  <img src="images/beacon.png" alt="BEACON Framework Overview" style="width: 100%; max-width: 800px;">
+  <img src="images/deeprecover.png" alt="DeepRecover Framework Overview" style="width: 100%; max-width: 800px;">
 </p>
 
-### LLM Deep Safety Alignment: Auditing Shallow Alignment via Representation-Level Diagnosis (BEACON)
+### DeepRecover: Learning Cross-Depth Safety Recovery for Large Language Models
 
-**First Author** · Targeting **ICLR 2027** (CCF-A) · 2025 – Present
+**First Author** · **ICLR 2027** (CCF-A, Under Review) · 2025 – 2026
 
-- **Quantified a belief-behavior gap**: internal probes detect harmful intent with >95% accuracy at *any* prefix length, yet model compliance surges from <2% to >50% as prefix grows — proving alignment failure is a *generation-side* problem, not a *representation-side* problem.
-- **Proposed BEACON**: token-wise consistency losses anchor the model's generation behavior to its own internal harmfulness judgment, maintaining refusal robustness regardless of prefix length. Cuts adversarial attack success rate from >50% to ≤5% across four models and up to 3,000-token prefixes.
+- **Diagnosed a cross-depth generalization gap**: existing deep-safety methods recover well at the prefix depths they were trained on, then degrade sharply once evaluation moves beyond them — so the problem is not recovering at *more* positions, but keeping recovery effective as the underlying generation state shifts.
+- **Proposed DeepRecover**: a privileged-anchor framework that builds a shared recovery anchor from the clean query plus safety information, corrects the *initial-state mismatch* with shared transition tokens, and aligns the *trajectory mismatch* via token-wise unbalanced optimal transport over teacher-rank support — without extra inference-time intervention.
+- **Results**: on four instruction-tuned LLMs (Llama-3.2-3B/3.1-8B, Qwen2.5-3B/7B) trained on only 30-token prefixes, unseen-depth ASR drops to 2.63%/0.40% on Llama-3.2-3B and 0.17%/0.10% on Qwen2.5-3B, against 37–42% for prior deep-alignment baselines, while MMLU general capability is preserved.
 
 ---
 
@@ -94,6 +95,8 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 - **National Scholarship**, Top 1% — Ministry of Education of China (2024)
 - **Gold Medal** — CCPC National Invitational, Nanchang (2026)
 - **Silver Medal** — CCPC National Invitational, Guiyang (2026)
+- **Silver Medal** — CCF CCSP, Chengdu (2026)
+- **Bronze Medal** — ICPC Asia Regional, Chengdu (2026)
 - **Bronze Medal** — ICPC Asia Regional, Chengdu (2025)
 - **Bronze Medal**, 2× — CCPC Regional, Jinan & Zhengzhou (2025)
 - **Bronze Medal** — CCF CCSP; CSP 360/500, Top 1% (2025)

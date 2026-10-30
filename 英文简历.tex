@@ -156,19 +156,22 @@
 \resumeSubHeadingListStart
 
     \resumeProject
-      {LLM Deep Safety Alignment: Auditing Shallow Alignment via Representation-Level Diagnosis}
-      {First Author, under-going, targeting ICLR 2027, CCF-A}
-      {2025--Present}
+      {DeepRecover: Learning Cross-Depth Safety Recovery for Large Language Models}
+      {First Author, under review at ICLR 2027, CCF-A}
+      {2025--2026}
       {}
     \resumeItemListStart
-        \item {Quantified a \textbf{belief-behavior gap}: internal probes detect harmful intent
-            with {>}95\% accuracy at any prefix length, yet model compliance surges from {<}2\%
-            to {>}50\% as prefix grows, proving alignment failure is a \emph{generation} problem,
-            not a \emph{representation} problem.}
-        \item {Proposed \textbf{BEACON}: token-wise consistency losses anchor the model's
-            generation behavior to its own internal harmfulness judgment, maintaining refusal
-            robustness regardless of prefix length. Cuts adversarial attack success from
-            $>$50\% to $\leq$5\% across up to 3,000-token prefixes in four models.}
+        \item {Diagnosed a \textbf{cross-depth generalization gap}: existing deep-safety
+            methods recover at the prefix depths observed during training, then degrade sharply
+            once evaluation moves beyond them --- so the goal is not recovering at \emph{more}
+            positions, but keeping recovery effective as the generation state shifts.}
+        \item {Proposed \textbf{DeepRecover}: a privileged safety anchor built from the clean
+            query plus additional safety information, shared transition tokens to correct the
+            initial-state mismatch, and token-wise unbalanced optimal transport to align the
+            trajectory mismatch --- with no inference-time intervention.}
+        \item {On four instruction-tuned LLMs trained with only 30-token prefixes, unseen-depth
+            ASR drops to 0.17--2.63\% versus 37--42\% for prior deep-alignment baselines, while
+            MMLU general capability is preserved.}
     \resumeItemListEnd
 
     \resumeProject
@@ -190,7 +193,7 @@
 
     \resumeProject
       {NeVA: Controllable Value Alignment in LLMs via Neuron-Level Editing}
-      {Co-first Author, Submitting to WWW 2026, CCF-A}
+      {Co-first Author, Under Review at ACL ARR, CCF-A}
       {2026}
       {}
       \resumeItemListStart
@@ -210,6 +213,12 @@
         {2024}
     \resumePOR{Gold Medal, CCPC National Invitational}
         {Nanchang}
+        {2026}
+    \resumePOR{Silver Medal, CCF CCSP}
+        {Chengdu}
+        {2026}
+    \resumePOR{Bronze Medal, ICPC Asia Regional}
+        {Chengdu}
         {2026}
     \resumePOR{Bronze Medal, ICPC Asia Regional}
         {Chengdu}

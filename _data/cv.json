@@ -100,6 +100,18 @@
       "summary": "National invitational competition; team \"Exercise Everyday\""
     },
     {
+      "title": "Silver Medal, CCF CCSP (Chengdu)",
+      "date": "2026",
+      "awarder": "China Computer Federation",
+      "summary": "National College Student Computer Systems and Programming Competition"
+    },
+    {
+      "title": "Bronze Medal, ICPC Asia Regional Contest (Chengdu)",
+      "date": "2026",
+      "awarder": "International Collegiate Programming Contest",
+      "summary": "Team-based Prestigious competitive programming competition"
+    },
+    {
       "title": "Bronze Medal, 50th ICPC Asia Regional Contest (Chengdu)",
       "date": "2025",
       "awarder": "International Collegiate Programming Contest",
@@ -138,13 +150,13 @@
   ],
   "projects": [
     {
-      "name": "LLM Deep Safety Alignment: BEACON",
+      "name": "DeepRecover: Learning Cross-Depth Safety Recovery for Large Language Models",
       "startDate": "2025",
-      "endDate": "Present",
-      "description": "NUS NExT++ Research Centre. First Author, targeting ICLR 2027.",
+      "endDate": "2026",
+      "description": "NUS NExT++ Research Centre. First Author, ICLR 2027 (CCF-A, Under Review).",
       "highlights": [
-        "Quantified belief-behavior gap: internal probes >95% accuracy, yet compliance surges from <2% to >50%",
-        "Proposed BEACON: token-wise consistency losses cut adversarial success rate from >50% to ≤5% across four models"
+        "Diagnosed a cross-depth generalization gap: deep-safety methods degrade once evaluation moves beyond the prefix depths observed during training",
+        "Proposed DeepRecover: privileged safety anchor, shared transition tokens, and token-wise unbalanced optimal transport; unseen-depth ASR 0.17–2.63% vs 37–42% for prior baselines across four LLMs"
       ]
     },
     {
@@ -161,7 +173,7 @@
       "name": "NeVA: Controllable Value Alignment in LLMs via Neuron-Level Editing",
       "startDate": "2026",
       "endDate": "Present",
-      "description": "NUS NExT++ Research Centre. Co-first Author, WWW 2026 (CCF-A, Under Review).",
+      "description": "NUS NExT++ Research Centre. Co-first Author, ACL ARR (CCF-A, Under Review).",
       "highlights": [
         "Locates and edits sparse neuron subsets governing specific value outputs in LLMs/LVLMs",
         "Enables fine-grained value alignment without parameter updates"
