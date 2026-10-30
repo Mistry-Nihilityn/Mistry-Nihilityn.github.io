@@ -39,9 +39,9 @@ redirect_from:
 
 - **National Scholarship**, Top 1% — Ministry of Education of China (2024)
 - **Gold Medal** — CCPC National Invitational, Nanchang (2026)
-- **Silver Medal** — CCPC National Invitational, Guiyang (2026)
-- **Silver Medal** — CCF CCSP, Chengdu (2026)
-- **Bronze Medal** — ICPC Asia Regional, Chengdu (2026)
+- **Silver Medal** — CCPC National Invitational, Guiyang (2026) *(team "Exercise Everyday")*
+- **Silver Medal** — CCF CCSP, Chengdu (2026) *(individual)*
+- **Bronze Medal** — ICPC Asia Regional, Chengdu (2026) *(team "Hefei Uncles of Technology")*
 - **Bronze Medal** — ICPC Asia Regional, Chengdu (2025)
 - **Bronze Medal**, 2× — CCPC Regional, Jinan & Zhengzhou (2025)
 - **Bronze Medal** — CCF CCSP; CSP 360/500, Top 1% (2025)
