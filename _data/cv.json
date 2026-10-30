@@ -40,6 +40,15 @@
       "endDate": "Present",
       "gpa": "90.78/100 (Top 1.75%)",
       "courses": []
+    },
+    {
+      "institution": "University of Chinese Academy of Sciences",
+      "area": "Graduate Study (recommended for admission, 保研)",
+      "studyType": "",
+      "startDate": "2027-09",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
     }
   ],
   "skills": [

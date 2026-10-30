@@ -11,13 +11,15 @@ redirect_from:
 
 I am an undergraduate student in Software Engineering at [Hefei University of Technology](http://www.hfut.edu.cn), and a remote research intern at **NExT++ Research Centre, National University of Singapore**, supervised by [Dr. Yonghui Yang](https://yonghui-yang.github.io) and [Prof. Tat-Seng Chua](https://www.chuatatseng.com) (NUS Chair Professor, Singapore National Academy of Sciences). My research focuses on **LLM Safety & Alignment**, **Interpretable Robust Learning**, and **Multimodal Deepfake Detection**. I also hold multiple **ICPC/CCPC/CCSP** medals, including a **CCPC National Gold**, which sharpen my algorithmic and engineering skills.
 
+I have been recommended for admission (保研) to the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn), where I will begin my graduate studies in 2027. **学弟学妹如果对保研、科研实习或竞赛训练有疑问，欢迎随时邮件联系我** — I am always glad to share what I have learned.
+
 ## 📰 News
 
 - **[2026]** Our work **DeepRecover** (Learning Cross-Depth Safety Recovery for LLMs) is **under review at ICLR 2027** (CCF-A, first author).
 - **[May. 2026]** Led **HFUT Team 101** to win a **Gold Medal** at the **CCPC National Invitational (Nanchang)**.
 - **[Jun. 2026]** Won a **Silver Medal** at the **CCPC National Invitational (Guiyang)** as a member of **Exercise Everyday**.
-- **[2026]** Won a **Silver Medal** at **CCF CCSP (Chengdu)** — an individual contest.
-- **[2026]** Won a **Bronze Medal** at the **ICPC Asia Regional (Chengdu)** with team **Hefei Uncles of Technology**.
+- **[Oct. 2026]** Won a **Silver Medal** at **CCF CCSP (Chengdu)** — an individual contest.
+- **[Oct. 2026]** Won a **Bronze Medal** at the **ICPC Asia Regional (Chengdu)** with team **Hefei Uncles of Technology**.
 - **[May. 2026]** Our work **NeVA** (Neuron-level Value Alignment) was submitted to **ACL Rolling Review (ARR)** (CCF-A, co-first author).
 - **[Apr. 2026]** Our work **S³** (Suppressing Method-Specific Shortcuts) is targeting **CVPR 2027** (CCF-A, first author).
 - **[Feb. 2026]** Our work **CLEAR** (Cross-modal De-redundancy) has been transferred to **AAAI** (CCF-A).
@@ -26,6 +28,7 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 
 - **B.Eng. in Software Engineering**, Hefei University of Technology, 2023 – 2027  
   *GPA: 90.78/100 (Top 1.75%)*
+- **Graduate Study** (recommended for admission, 保研), University of Chinese Academy of Sciences, 2027 – (incoming)
 - **Remote Research Intern**, NExT++ Research Centre, National University of Singapore, 2025 – Present  
   *Supervised by Dr. Yonghui Yang and Prof. Tat-Seng Chua*
 
@@ -125,3 +128,4 @@ I am an undergraduate student in Software Engineering at [Hefei University of Te
 - **Secondary**: [mistrynihilityn@gmail.com](mailto:mistrynihilityn@gmail.com)
 - **GitHub**: [Mistry-Nihilityn](https://github.com/Mistry-Nihilityn)
 - **Location**: Hangzhou, Zhejiang, China
+- **Prospective Students**: 欢迎学弟学妹来信咨询保研、科研实习与竞赛相关的问题 / Feel free to email me about graduate admission (保研), research internships, or competitive programming.

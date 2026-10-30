@@ -12,6 +12,8 @@ redirect_from:
 - **B.Eng. in Software Engineering**, Hefei University of Technology, 2023 – 2027  
   GPA: 90.78/100 (Top 1.75%)
 
+- **Graduate Study** (recommended for admission, 保研), University of Chinese Academy of Sciences, 2027 – (incoming)
+
 - **Remote Research Intern**, NExT++ Research Centre, National University of Singapore, 2025 – Present  
   Supervised by Dr. Yonghui Yang and Prof. Tat-Seng Chua (NUS Chair Professor, Singapore National Academy of Sciences)
 
