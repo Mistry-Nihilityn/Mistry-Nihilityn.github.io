@@ -11,7 +11,7 @@ redirect_from:
 
 I am an undergraduate student in Software Engineering at [Hefei University of Technology](http://www.hfut.edu.cn), and a remote research intern at **NExT++ Research Centre, National University of Singapore**, supervised by [Dr. Yonghui Yang](https://yonghui-yang.github.io) and [Prof. Tat-Seng Chua](https://www.chuatatseng.com) (NUS Chair Professor, Singapore National Academy of Sciences). My research focuses on **LLM Safety & Alignment**, **Interpretable Robust Learning**, and **Multimodal Deepfake Detection**. I also hold multiple **ICPC/CCPC/CCSP** medals, including a **CCPC National Gold**, which sharpen my algorithmic and engineering skills.
 
-I have been recommended for admission (保研) to the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn), where I will begin my graduate studies in 2027. **学弟学妹如果对保研、科研实习或竞赛训练有疑问，欢迎随时邮件联系我** — I am always glad to share what I have learned.
+I have been recommended for graduate admission to the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn), where I will begin my graduate studies in 2027. **Junior students are always welcome to reach out** about graduate admission, research internships, or competitive programming — I am glad to share what I have learned.
 
 ## 📰 News
 
@@ -28,7 +28,7 @@ I have been recommended for admission (保研) to the [University of Chinese Aca
 
 - **B.Eng. in Software Engineering**, Hefei University of Technology, 2023 – 2027  
   *GPA: 90.78/100 (Top 1.75%)*
-- **Graduate Study** (recommended for admission, 保研), University of Chinese Academy of Sciences, 2027 – (incoming)
+- **Graduate Study** (recommended for admission), University of Chinese Academy of Sciences, 2027 – (incoming)
 - **Remote Research Intern**, NExT++ Research Centre, National University of Singapore, 2025 – Present  
   *Supervised by Dr. Yonghui Yang and Prof. Tat-Seng Chua*
 
@@ -128,4 +128,4 @@ I have been recommended for admission (保研) to the [University of Chinese Aca
 - **Secondary**: [mistrynihilityn@gmail.com](mailto:mistrynihilityn@gmail.com)
 - **GitHub**: [Mistry-Nihilityn](https://github.com/Mistry-Nihilityn)
 - **Location**: Hangzhou, Zhejiang, China
-- **Prospective Students**: 欢迎学弟学妹来信咨询保研、科研实习与竞赛相关的问题 / Feel free to email me about graduate admission (保研), research internships, or competitive programming.
+- **Prospective Students**: Feel free to email me about graduate admission, research internships, or competitive programming.
