@@ -18,7 +18,7 @@ I have been recommended for admission (保研) to the [University of Chinese Aca
 - **[2026]** Our work **DeepRecover** (Learning Cross-Depth Safety Recovery for LLMs) is **under review at ICLR 2027** (CCF-A, first author).
 - **[May. 2026]** Led **HFUT Team 101** to win a **Gold Medal** at the **CCPC National Invitational (Nanchang)**.
 - **[Jun. 2026]** Won a **Silver Medal** at the **CCPC National Invitational (Guiyang)** as a member of **Exercise Everyday**.
-- **[Oct. 2026]** Won a **Silver Medal** at **CCF CCSP (Chengdu)** — an individual contest.
+- **[Oct. 2026]** Won a **Silver Medal** at **CCF CCSP (Chengdu)**.
 - **[Oct. 2026]** Won a **Bronze Medal** at the **ICPC Asia Regional (Chengdu)** with team **Hefei Uncles of Technology**.
 - **[May. 2026]** Our work **NeVA** (Neuron-level Value Alignment) was submitted to **ACL Rolling Review (ARR)** (CCF-A, co-first author).
 - **[Apr. 2026]** Our work **S³** (Suppressing Method-Specific Shortcuts) is targeting **CVPR 2027** (CCF-A, first author).
@@ -100,7 +100,7 @@ I have been recommended for admission (保研) to the [University of Chinese Aca
 - **National Scholarship**, Top 1% — Ministry of Education of China (2024)
 - **Gold Medal** — CCPC National Invitational, Nanchang (2026)
 - **Silver Medal** — CCPC National Invitational, Guiyang (2026) *(team "Exercise Everyday")*
-- **Silver Medal** — CCF CCSP, Chengdu (2026) *(individual)*
+- **Silver Medal** — CCF CCSP, Chengdu (2026)
 - **Bronze Medal** — ICPC Asia Regional, Chengdu (2026) *(team "Hefei Uncles of Technology")*
 - **Bronze Medal** — ICPC Asia Regional, Chengdu (2025)
 - **Bronze Medal**, 2× — CCPC Regional, Jinan & Zhengzhou (2025)
